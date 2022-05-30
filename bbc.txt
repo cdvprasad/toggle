@@ -1,1 +1,8 @@
 Iam a python developer and i should learn many things daily
+
+def even(num):
+    if num%2 == 0:
+    	print("this is even number")
+	
+
+   
